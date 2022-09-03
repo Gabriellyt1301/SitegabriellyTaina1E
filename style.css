@@ -1,0 +1,54 @@
+	header{
+			text-align: center;
+			border: 5px solid salmon
+			color rosybrown;
+		}
+
+		h2{
+			background: rosybrown;
+			display: block;
+			padding: 20px;
+			font-size: 25px;
+
+		}
+
+		ul{
+			background-color: bisque;
+		}
+
+		ul li {
+			display: inline-block;
+			vertical-align: top;
+			font-size: 30px;
+			font-weight: bold;
+		}
+
+		img{
+			border: 2px solid cornflowerblue;
+			padding: 5px auto;
+			vertical-align: middle;
+			margin: 20px;
+		}
+
+		a{
+			padding: 15px;
+			border: 5px;
+			border-style: double;
+			font-size: 20px;
+			color: cadetblue;
+		}
+
+		iframe{
+			width: 300px;
+			height: 180px;
+			vertical-align: middle;
+		}
+
+		footer{
+			background: black;
+			color: white;
+			text-align: center;
+			font-size: 15px;
+		}
+	</style>
+	
